@@ -6,6 +6,4 @@ package thin.framework.util;
 public class StringUtil {
 
     public static final String SEPARATOR = String.valueOf((char) 29);
-
-    private int i=0;
 }
